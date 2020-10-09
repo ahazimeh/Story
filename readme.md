@@ -1,0 +1,8 @@
+The story for this game is based on a real life theory called "The Butterfly Theory".
+In chaos theory, the butterfly effect is the sensitive dependence on initial conditions in which a small change in one state of a deterministic nonlinear system can result in large differences in a later state.
+
+The term, closely associated with the work of Edward Lorenz, is derived from the metaphorical example of the details of a tornado (the exact time of formation, the exact path taken) being influenced by minor perturbations such as the flapping of the wings of a distant butterfly several weeks earlier. Lorenz discovered the effect when he observed that runs of his weather model with initial condition data that were rounded in a seemingly inconsequential manner would fail to reproduce the results of runs with the unrounded initial condition data. A very small change in initial conditions had created a significantly different outcome
+
+The idea that small causes may have large effects in general and in weather specifically was earlier recognized by French mathematician and engineer Henri Poincaré and American mathematician and philosopher Norbert Wiener. Edward Lorenz's work placed the concept of instability of the Earth's atmosphere onto a quantitative base and linked the concept of instability to the properties of large classes of dynamic systems which are undergoing nonlinear dynamics and deterministic chaos.
+
+The goal of this story game is to show how our decisions that we take have a major effect on the outcome of the future generations.
